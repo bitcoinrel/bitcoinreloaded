@@ -26,3 +26,7 @@ Discord: https://discord.gg/6DXp3EqeBz
 Twitter: https://twitter.com/BitcoinReloaded
 
 Exchanges: N/A
+
+Mining pools:
+
+pool.bitcoinreloaded.net (temporary pool, switching off when we get more pools)

@@ -21,6 +21,8 @@ Links:
 
 Website coming soon: N/A
 
+Block explorer: http://explorer.bitcoinreloaded.net
+
 Discord: https://discord.gg/6DXp3EqeBz
 
 Twitter: https://twitter.com/BitcoinReloaded

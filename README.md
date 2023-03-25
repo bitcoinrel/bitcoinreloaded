@@ -19,7 +19,7 @@ Block reward: 50 BTCR (Halving every 210000 blocks)
 
 Links:
 
-Website coming soon: N/A
+Website: https://www.bitcoinreloaded.net
 
 Block explorer: http://explorer.bitcoinreloaded.net
 
@@ -31,4 +31,4 @@ Exchanges: N/A
 
 Mining pools:
 
-pool.bitcoinreloaded.net (temporary pool, switching off when we get more pools)
+https://coinxpool.com

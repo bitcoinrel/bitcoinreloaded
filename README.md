@@ -32,3 +32,7 @@ Exchanges: N/A
 Mining pools:
 
 https://coinxpool.com
+
+https://mvc.altcoinpool.ru
+
+

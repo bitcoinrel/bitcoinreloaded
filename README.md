@@ -27,7 +27,7 @@ Discord: https://discord.gg/6DXp3EqeBz
 
 Twitter: https://twitter.com/BitcoinReloaded
 
-Exchanges: N/A
+Exchanges: https://xeggex.com
 
 Mining pools:
 
